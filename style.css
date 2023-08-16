@@ -1,0 +1,32 @@
+#wrapper{
+    width: 100%;
+    height: auto;
+    overflow-x: hidden;
+}
+
+img, figcaption{
+    display: block;
+    margin: auto;
+    width: auto;
+}
+
+h1{
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+}
+
+h2{
+    font-weight: 900;
+    text-decoration: underline;
+}
+
+figcaption{
+    text-align: center;
+    font-weight: 500;
+}
+
+table, tr, td, th{
+    text-align: center;
+    border: 1px solid black;
+}
